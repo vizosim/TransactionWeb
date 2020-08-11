@@ -3,7 +3,7 @@ Transaction Web application
 
 To run application:
 
-Open /dist folder and run TransactionWebApplication
+Go to /dist directory and run TransactionWebApplication.exe
 
 Follow by this url https://localhost:5001 to load UI
 
