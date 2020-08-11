@@ -2,7 +2,9 @@
 Transaction Web application
 
 To run application:
-Open /dist folder and run TransactionWebApplication.exe
+
+Open /dist folder and run TransactionWebApplication
+
 Follow by this url https://localhost:5001 to load UI
 
 API available by this url https://localhost:5001/api/
