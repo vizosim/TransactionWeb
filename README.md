@@ -13,7 +13,7 @@ Commit new transaction
 POST - https://localhost:5001/api/transaction/commit
 {
   "type": "credit",
-  "amount": 11
+  "amount": 100
 }
 
 GET https://localhost:5001/api/transaction
@@ -22,6 +22,5 @@ Retrieve transaction history
 Get current balance
 https://localhost:5001/api/transaction/balance
 {
-    "balance": 101
 }
 
